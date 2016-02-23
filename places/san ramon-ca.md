@@ -1,4 +1,4 @@
-Enter file contents here
+
 ## San Ramon-ca
 ### Places to eat
 
