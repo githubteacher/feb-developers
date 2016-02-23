@@ -10,3 +10,4 @@
 
 - Go to beach at Del Mar State beach
 - Go to the zoo or the San Diego Wild Animal Safari
+- Go to a Padres game at Petco
