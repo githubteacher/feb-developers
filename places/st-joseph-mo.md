@@ -8,4 +8,6 @@
 ### Things to do
 
  - Walk Ashland Ave
- - Visit Pony Express sites
+ - Visit Pony Express sites like the Pony Express monument
+ - Eat good food
+ 
