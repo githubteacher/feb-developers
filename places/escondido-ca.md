@@ -18,4 +18,4 @@
 - Head 20 minutes west to the coast! (Drive up and down the 101)
 - See the desert, mountains, and beach in one weekend
 - Cruisin' Grand car show Friday evenings in the summer
-- Visit the Deer Park Monastary
+- Visit the Deer Park Monastery
