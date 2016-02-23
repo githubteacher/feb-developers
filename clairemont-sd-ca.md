@@ -3,3 +3,5 @@
 
 ### Places to eat
 - Di Chan Thai Restaurant
+- Souplantation
+
