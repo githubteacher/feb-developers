@@ -7,4 +7,5 @@
 ### Things to do
 - St. Louis arch
 - City Museum
-- Hiking
+- Hiking by the meremac river
+- water park in chesterfield
