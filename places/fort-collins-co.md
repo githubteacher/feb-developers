@@ -7,3 +7,4 @@
 
 ### Things to do
 - Beer tasting
+- Snow Shoeing
