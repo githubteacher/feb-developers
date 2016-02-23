@@ -1,0 +1,552 @@
+//tealium universal tag - utag.120 ut4.0.201602041920, Copyright 2016 Tealium.com Inc. All Rights Reserved.
+try {
+	(function(id, loader, u) {
+		try {
+			u = utag.o[loader].sender[id] = {}
+		} catch (e) {
+			u = utag.sender[id]
+		}
+		;
+		u.ev = {
+			'view' : 1
+		};
+				u.t = '@@',
+				u.i = [],
+				u.p = [
+						"//www.facebook.com/tr?ev=@@fb_ev_value@@&cd[value]=0.00&cd[currency]=USD&noscript=1",
+						"", "", "", "", "", "", "" ];
+		u.cachebust = "disabled";
+		u.cachevar = "" || "_rnd";
+		u.map = {};
+		u.extend = [
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/checking'
+								|| b['dom.pathname'] == '/checking/'
+								|| b['dom.pathname'] == '/checking/index') {
+							b['fb_ev_value'] = '6027469593304'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/locator'
+								|| b['dom.pathname'] == '/locator/'
+								|| b['dom.pathname'] == '/locator/index') {
+							b['fb_ev_value'] = '6027469604704'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/maa/appointment'
+								|| b['dom.pathname'] == '/maa/appointment/'
+								|| b['dom.pathname'] == '/maa/appointment/index') {
+							b['fb_ev_value'] = '6027469646704'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/student/sweepstakes'
+								|| b['dom.pathname'] == '/student/sweepstakes/'
+								|| b['dom.pathname'] == '/student/sweepstakes/index') {
+							b['fb_ev_value'] = '6032486397104'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/jump/debit-card/travel-financial-tips'
+								|| b['dom.pathname'] == '/jump/debit-card/travel-financial-tips/'
+								|| b['dom.pathname'] == '/jump/debit-card/travel-financial-tips/index') {
+							b['fb_ev_value'] = '6032551241904'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/student'
+								|| b['dom.pathname'] == '/student/'
+								|| b['dom.pathname'] == '/student/index') {
+							b['fb_ev_value'] = '6032757586904'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/student/planning-steps'
+								|| b['dom.pathname'] == '/student/planning-steps/'
+								|| b['dom.pathname'] == '/student/planning-steps/index') {
+							b['fb_ev_value'] = '6032757624904'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/jump/student-loans/students'
+								|| b['dom.pathname'] == '/jump/student-loans/students/'
+								|| b['dom.pathname'] == '/jump/student-loans/students/index') {
+							b['fb_ev_value'] = '6032757737104'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/jump/home-equity/home-equity-great-rate'
+								|| b['dom.pathname'] == '/jump/home-equity/home-equity-great-rate/'
+								|| b['dom.pathname'] == '/jump/home-equity/home-equity-great-rate/index') {
+							b['fb_ev_value'] = '6033541935704'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/personal-credit'
+								|| b['dom.pathname'] == '/personal-credit/'
+								|| b['dom.pathname'] == '/personal-credit/index') {
+							b['fb_ev_value'] = '6033541945504'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'EDL' && b['subproduct_code'] == 'PVTBEL')) {
+							b['fb_ev_value'] = '6035921276304'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'EDL' && b['subproduct_code'] == 'PVTCLP')) {
+							b['fb_ev_value'] = '6035923729304'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'EDL' && b['subproduct_code'] == 'PVTCAREER')) {
+							b['fb_ev_value'] = '6035923782504'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'EDL' && b['subproduct_code'] == 'PVTGRAD')) {
+							b['fb_ev_value'] = '6035923808904'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'EDL' && b['subproduct_code'] == 'PVTMAL')) {
+							b['fb_ev_value'] = '6035923843304'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'EDL' && b['subproduct_code'] == 'PVTCONNECT_CONS')) {
+							b['fb_ev_value'] = '6035923885104'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'EDL' && b['subproduct_code'] == 'PVTXTRA')) {
+							b['fb_ev_value'] = '6035923919504'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'EDL' && b['subproduct_code'] == 'PVTPARENT')) {
+							b['fb_ev_value'] = '6035923965304'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'AEQ')) {
+							b['fb_ev_value'] = '6035924042304'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'LBO')) {
+							b['fb_ev_value'] = '6035924087704'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'PND')) {
+							b['fb_ev_value'] = '6035924124504'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'PPP')) {
+							b['fb_ev_value'] = '6035924142504'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'PUD')) {
+							b['fb_ev_value'] = '6035924242704'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'REF')) {
+							b['fb_ev_value'] = '6035924274304'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'RPL')) {
+							b['fb_ev_value'] = '6035924317104'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'determineEligibility'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'AEQ')) {
+							b['fb_ev_value'] = '6036307675704'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'determineEligibility'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'LBO')) {
+							b['fb_ev_value'] = '6036307744104'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'determineEligibility'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'PND')) {
+							b['fb_ev_value'] = '6036307816704'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'determineEligibility'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'PPP')) {
+							b['fb_ev_value'] = '6036307844504'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'determineEligibility'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'PUD')) {
+							b['fb_ev_value'] = '6036307868904'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'determineEligibility'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'REF')) {
+							b['fb_ev_value'] = '6036307883504'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'determineEligibility'
+								&& b['product_code'] == 'AUTO' && b['subproduct_code'] == 'RPL')) {
+							b['fb_ev_value'] = '6036307897704'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'gettingStarted' && b['product_code'] == 'ATWRKPK')) {
+							b['fb_ev_value'] = '6027469631504'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou' && b['product_code'] == 'ATWRKPK')) {
+							b['fb_ev_value'] = '6027469640704'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'gettingStarted' && b['product_code'] == 'PREFPK')) {
+							b['fb_ev_value'] = '6032486243304'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou' && b['product_code'] == 'PREFPK')) {
+							b['fb_ev_value'] = '6032486205304'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'gettingStarted'
+								&& b['product_code'] == 'CHK' && b['subproduct_code'] == 'GP')) {
+							b['fb_ev_value'] = '6032486245904'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'CHK' && b['subproduct_code'] == 'GP')) {
+							b['fb_ev_value'] = '6032486271704'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'gettingStarted'
+								&& b['product_code'] == 'CHK' && b['subproduct_code'] == 'RC')) {
+							b['fb_ev_value'] = '6032486274504'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'CHK' && b['subproduct_code'] == 'RC')) {
+							b['fb_ev_value'] = '6032486287904'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'gettingStarted'
+								&& b['product_code'] == 'CHK' && b['subproduct_code'] == 'TMC')) {
+							b['fb_ev_value'] = '6032486295904'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if ((b['page_id'] == 'thankYou'
+								&& b['product_code'] == 'CHK' && b['subproduct_code'] == 'TMC')) {
+							b['fb_ev_value'] = '6032486297304'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/maa/appointment/verifysubmit'
+								|| b['dom.pathname'] == '/maa/appointment/verifysubmit/'
+								|| b['dom.pathname'] == '/maa/appointment/verifysubmit/index') {
+							b['fb_ev_value'] = '6037429778104'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/mobile-payments/android-pay'
+								|| b['dom.pathname'] == '/mobile-payments/android-pay/'
+								|| b['dom.pathname'] == '/mobile-payments/android-pay/index') {
+							b['fb_ev_value'] = '6038771206704'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/mobile-payments/apple-pay'
+								|| b['dom.pathname'] == '/mobile-payments/apple-pay/'
+								|| b['dom.pathname'] == '/mobile-payments/apple-pay/index') {
+							b['fb_ev_value'] = '6038777079104'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/international-remittances'
+								|| b['dom.pathname'] == '/international-remittances/'
+								|| b['dom.pathname'] == '/international-remittances/index') {
+							b['fb_ev_value'] = '6039705185704'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				},
+				function(a, b) {
+					try {
+						if (b['dom.pathname'] == '/jump/enterprise/holiday-offer'
+								|| b['dom.pathname'] == '/jump/enterprise/holiday-offer/'
+								|| b['dom.pathname'] == '/jump/enterprise/holiday-offer/index') {
+							b['fb_ev_value'] = '6037429695304'
+						}
+					} catch (e) {
+						utag.DB(e)
+					}
+				} ];
+		u.send = function(a, b, c, d, e, f) {
+			if (u.ev[a]) {
+				for (c = 0; c < u.extend.length; c++) {
+					try {
+						d = u.extend[c](a, b);
+						if (d == false)
+							return
+					} catch (e) {
+					}
+				}
+				;
+				if (!b.fb_ev_value)
+					return false;
+				for (c = 0; c < u.p.length; c++) {
+					if (u.p[c] != "") {
+						var x = u.rp(u.p[c], b);
+						if (x != "") {
+							if (u.cachebust == "enabled"
+									&& x.indexOf("_rnd") < 0) {
+								x += "&" + u.cachevar + "=" + Math.random();
+							}
+							var img = new Image();
+							img.src = x;
+							u.i.push(img);
+						}
+					}
+				}
+			}
+		}
+		u.rp = function(a, b) {
+			if (typeof a != "undefined" && a.indexOf(u.t) > 0) {
+				a = a.replace(/@@([^@]+)@@/g, function(m, d) {
+					if (b[d]) {
+						return encodeURIComponent(b[d]);
+					} else {
+						return '';
+					}
+				});
+			}
+			return a;
+		}
+		try {
+			utag.o[loader].loader.LOAD(id)
+		} catch (e) {
+			utag.loader.LOAD(id)
+		}
+	})('120', 'wfc.main');
+} catch (error) {
+	utag.DB(error);
+}
