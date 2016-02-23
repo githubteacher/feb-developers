@@ -4,7 +4,8 @@
 
 -pikolet(kokoreç)
 -cici piknik(döner)
+-abbas(waffle)
 
 ###things to do
 
--go picnic
+-go picnic at Kızılcahamam
