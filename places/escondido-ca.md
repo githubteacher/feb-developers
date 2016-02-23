@@ -12,4 +12,4 @@
 - Hike around Lake Hodges
 - Visit the San Diego Wild Animal Park (Safari Park)
 - Grab some tasty brews at the original Stone Brewery
-- Head 20 minutes west to the coast!
+- Head 20 minutes west to the coast! (Drive up and down the 101)
