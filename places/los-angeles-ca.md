@@ -4,3 +4,5 @@
 
 - DisneyLand
 - Universal Studio
+- Hollywood Walk of Fame
+- Hollywood bowl
