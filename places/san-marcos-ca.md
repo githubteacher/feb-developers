@@ -1,4 +1,4 @@
-## san-marcos, CA
+## San Marcos, CA
 
 ### Places to Eat
 
