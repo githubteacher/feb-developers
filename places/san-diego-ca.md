@@ -4,7 +4,9 @@
 
 - Pho Cadao
 - Stir Fresh
+- Jalapenos
 
 ### Things to do
 
-- Play basketball
+- Play basketball at Community Park
+- Go to the beach.
