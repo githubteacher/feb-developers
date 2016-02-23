@@ -18,3 +18,8 @@
 - Middle of no where
 - In a basin between a bunch of mountains
 - In the desert
+
+### Who lives there?
+
+- Farmers
+- Oil field workers
