@@ -1,4 +1,4 @@
-## Escondido, CA
+# Escondido, CA
 
 ### Places to Eat
 
