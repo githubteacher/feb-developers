@@ -3,7 +3,9 @@
 ### Place to Eat
 
 - State Street
+- Some other place.
 
 ### Things to do
 
-- Go hiking in the near-by mountains
+- Go hiking near Big Bear.
+- Go mountain biking at Snow Summit.
