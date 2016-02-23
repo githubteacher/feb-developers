@@ -1,7 +1,7 @@
 ## San Diego, CA
 
 ### Places to eat
-- Stone Brewing 
+- Stone Brewing
 - The Boiling Crab
 - El Prado
 - Pearl
@@ -10,4 +10,4 @@
 - Go to the beach
 - Hike Torrey Pines
 - Visit the Zoo and Wild Animal Park
-- visit maritime museum
+- visit maritime museum near the pier
