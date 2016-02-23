@@ -5,4 +5,8 @@
 - DisneyLand
 - Universal Studio
 - Hollywood Walk of Fame
-- Hollywood bowl
+- Hollywood Bowl in Pasadena
+
+## more sight seeing places
+- California Science Center
+- Griffith Observatory
