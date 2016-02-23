@@ -12,3 +12,5 @@
 - Double Peak Park
 - Top of the World
 - Bowling
+- Skate Park
+- Discovery Lake
