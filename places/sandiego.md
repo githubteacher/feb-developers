@@ -7,3 +7,4 @@
 ### Things to do
 
 - Eat at Albertos
+- Eat burritos at Albertos
