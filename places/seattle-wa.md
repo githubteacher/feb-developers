@@ -8,4 +8,4 @@
 ### Things to do
 
 - Pike Place Market
-- Go hiking
+- Go hiking in Snoqualmie Falls
