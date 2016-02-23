@@ -5,3 +5,4 @@
 
 ### Things to do
 - San Diego Zoo
+- Wild Animal Park
