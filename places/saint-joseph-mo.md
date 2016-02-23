@@ -4,3 +4,7 @@
 
 - Geneo's Pizza
 - McDonalds
+
+### Things to do
+
+- Bowling
