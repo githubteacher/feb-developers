@@ -9,6 +9,7 @@
 ### Things to do
 
 - Hiking
-- Sailing
-- Bicycling
+- Sailing in Coronado
+- Bicycling in the mountains
 - Learn GitHub
+- Swimming
