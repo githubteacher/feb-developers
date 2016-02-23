@@ -7,3 +7,4 @@ Kula revolving sushi
 ### Things to do
 go to La Jolla beach
 go hiking 
+blah blah blah
