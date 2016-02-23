@@ -6,3 +6,5 @@
 - PIQ
 
 ### Things to do
+
+- Go to Freight and Salvage
