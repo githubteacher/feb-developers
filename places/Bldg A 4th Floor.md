@@ -8,3 +8,5 @@
 ### Things to Do
 
 - Lots of sunny outdoor activities outside the bldg.
+- More edits
+- More edits
