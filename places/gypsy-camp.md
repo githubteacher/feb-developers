@@ -4,3 +4,5 @@
 
 ## Things to do
 - Hideaway
+- bbq
+- long walks
