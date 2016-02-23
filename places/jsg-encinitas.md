@@ -1,7 +1,7 @@
 ## Encinitas, CA
 
 ### Places to Eat
-- Rico's Taco Shop
+- Rico's Taco Shop (Justin burrito + carne asada, please and thank you!)
 - Tony's Jacal
 - Native Foods Cafe
 - VG Donuts
