@@ -21,3 +21,5 @@
 - Painted Ladies
 - Baseball game
 - Twin Peaks
+- Museum of Modern Art
+- California Acadeny of Sciences
