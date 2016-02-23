@@ -9,3 +9,4 @@
 
 - Go to the beach
 - Offroad on the dunes
+- Wine tasting
