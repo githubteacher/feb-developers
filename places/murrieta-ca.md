@@ -7,4 +7,5 @@
 
 ### Things To Do
 
-- Eat
+- Camping
+- Hiking
