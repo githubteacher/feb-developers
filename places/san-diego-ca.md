@@ -7,5 +7,5 @@
 
 ### Things to do
 
-- Go to Balboa Park
-- Go to beach
+- Go to Balboa Park to visit San Diego Zoo
+- Go to Torry Pines Reserve for hiking
