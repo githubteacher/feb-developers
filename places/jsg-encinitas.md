@@ -8,7 +8,8 @@
 - Pipe's Cafe
 
 ### Things to do
-- Go to the beach
+- Go to Moonlight and Grandview beach
+- Go to the Botanical Gardens
 - Go for a bike ride along Hwy 101
 - Eat Mexican Food
 - Outrigger Canoe
