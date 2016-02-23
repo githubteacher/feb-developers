@@ -7,3 +7,6 @@
 - Skirball Culture Center
 - UCLA 
 - you can also go to downtown LA, Santa Monica, Pasadena
+
+## things to watch
+- Movie Stars
