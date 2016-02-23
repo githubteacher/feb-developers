@@ -3,3 +3,4 @@
 ## Places to eat
 - Indian Summer
 - Farmstand
+- Togos
