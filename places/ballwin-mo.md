@@ -9,3 +9,5 @@
 - City Museum
 - Hiking by the meremac river
 - water park in chesterfield
+- chesterfield mall
+- st louis science center
