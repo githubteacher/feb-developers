@@ -5,8 +5,9 @@
 - Pho Cadao
 - Stir Fresh
 - Jalapenos
+- Cheesecake Factory.
 
 ### Things to do
 
 - Play basketball at Community Park
-- Go to the beach.
+- Go to the beach at Coronado.
