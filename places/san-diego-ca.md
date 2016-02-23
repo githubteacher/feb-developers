@@ -1,4 +1,4 @@
-## San Diego CA
+## San Diego 2 CA
 
 ### Places to Eat
 
