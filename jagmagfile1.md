@@ -2,11 +2,12 @@
 
 ### places to eat in my home town of San Diego
 
-- mexican
+- mexican good
 - italian
+
 
 ### things to do
 
 - hike
 - swim
-- walk dog
+- walk dog Sparky
