@@ -9,3 +9,5 @@
 
 - Visit Tlaquepaque
 - Don't forget Chapala
+
+- Added a new line from command line
