@@ -2,8 +2,11 @@
 
 ### Places to eat
 
-- Kamat Restaurant (Authentic South Indian)
+- Kamat Yatri nivas Restaurant (Authentic South Indian)
+- Hotel Samrat
+- Local chaat places
 
 ### Things to do
 
-- Visit nearby palces 
+- Visit nearby palces like Nandi hills
+- Visit Mysore
