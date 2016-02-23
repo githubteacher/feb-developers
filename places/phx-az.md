@@ -4,7 +4,9 @@
 
 - Portillo's
 - Little Miss BBQ
+- Panda
 
 ### Things to do
 
-- Sweat
+- Sweat outside at the tennis court
+- Sweat taking dog for a walk
