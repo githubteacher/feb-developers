@@ -6,3 +6,8 @@
 - He has to align the dots!
 - I've been ionized, but I'm ok now!
 - No matter where you go, there you are.
+
+### More Quotes:
+- Expect the unexpected. He does.
+- Laugha while you can monkeyboy.
+- The future begins tomorrow.
