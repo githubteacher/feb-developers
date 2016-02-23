@@ -4,6 +4,7 @@
 
 - Hacienda de Vega
 - Chan Dara
+- The Wooden Spoon
 
 ### Things to do
 
