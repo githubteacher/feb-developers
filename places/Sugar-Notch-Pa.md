@@ -2,3 +2,6 @@
 
 ##Things to do 
 - Go hiking
+- Go Skiing
+
+
