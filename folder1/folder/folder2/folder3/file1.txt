@@ -1,0 +1,9 @@
+## playing around with Git
+- test
+- test123
+- abcd
+
+## understanding git
+- spooky
+- challenging
+- exciting
