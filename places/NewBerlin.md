@@ -4,8 +4,10 @@
 
  - BBW
  - Texas RoadHouse
- 
-### Things to do 
+ - The New Berlin Ale House
+
+### Things to do
 
  - Go bowling
- - Go to the Cinema 
+ - Go to the Cinema
+ - Go biking next to the train tracks
