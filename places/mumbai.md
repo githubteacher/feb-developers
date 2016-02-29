@@ -1,15 +1,14 @@
-## mumbai, MH
+## Mumbai-MH-India
 
-### places to visit
-- gateway of india
-- bandstand beach
-- bandra-worli sea link
+## Places to Shop
+Bandra
+Parel
+Colaba
 
-### things to eat
-- vada pav
-- pav bhaji
-- bhel puri
-- dabeli
-- pani puri
+## Places to Eat
+Parla
+Bandra
+Ghatkopar
 
+Irla
 
